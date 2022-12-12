@@ -1,0 +1,55 @@
+@media all and (max-width: 768px) {
+	.flex-item {
+		flex: 48%;
+
+	}
+
+	.photography h2{
+	
+		font-size:50px;
+	
+	}
+
+
+	.portfolio-area h2{
+		font-size:50px;
+	}
+
+	.about-area h3{
+		font-size:50px;
+	}
+
+	.subscribe-area input{
+		margin-top:10px;
+	}
+
+
+}
+@media all and (max-width: 600px) {
+	.flex-item {
+		flex: 98%;
+	}
+
+	.photography h2{
+	
+		font-size:40px;
+	
+	}
+
+
+	.portfolio-area h2{
+		font-size:40px;
+	}
+
+	.about-area h3{
+		font-size:40px;
+	}
+
+	.subscribe-area input{
+		margin:auto;
+	}
+
+	.subscribe-area input{
+		margin-top:10px;
+	}
+}
